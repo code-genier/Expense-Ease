@@ -21,16 +21,16 @@
   Run the app on an emulator or physical device.
 
 # Screenshots
-  1. Homepage
+  1. Homepage<br><br>
     ![image](https://github.com/code-genier/Expense-Ease/assets/75497784/8af13461-67a2-4da0-9daa-79f025afd1b4)
   
-  2. Detailed info with categorical view
+  2. Detailed info with categorical view<br><br>
     ![image](https://github.com/code-genier/Expense-Ease/assets/75497784/2fec743e-8eb0-46cb-a6b3-e9b2a0bbbdda)
 
-  3. Add new transactions
+  3. Add new transactions<br><br>
     ![image](https://github.com/code-genier/Expense-Ease/assets/75497784/d512bb32-b363-4b58-a0b5-3f19faf8b435)
 
-  4. Settings page
+  4. Settings page<br><br>
      ![image](https://github.com/code-genier/Expense-Ease/assets/75497784/98fafd17-5eb9-4828-9568-9c131e048fda)
 
 
